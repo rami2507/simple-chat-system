@@ -6,7 +6,7 @@ Before running the project, make sure you have the following software installed:
 ## Installation
 
 1. Clone the repository:
-   git clone <repository-url>
+   git clone https://github.com/rami2507/simple-chat-system
    cd <project-directory>
 
 2. Install the dependencies:
